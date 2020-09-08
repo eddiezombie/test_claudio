@@ -1,6 +1,6 @@
 
 exports.addTested = function(value) {
-  var result = value + " tested"; 
+  var result = value + " testeds"; 
   return result;
 };
 
